@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LXLAlertView_Example' do
+  pod 'LXLAlertView', :path => '../'
+
+  target 'LXLAlertView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

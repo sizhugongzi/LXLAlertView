@@ -1,0 +1,6 @@
+framework module LXLAlertView {
+  umbrella header "LXLAlertView-umbrella.h"
+
+  export *
+  module * { export * }
+}

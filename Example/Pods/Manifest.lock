@@ -1,0 +1,16 @@
+PODS:
+  - LXLAlertView (0.1.0)
+
+DEPENDENCIES:
+  - LXLAlertView (from `../`)
+
+EXTERNAL SOURCES:
+  LXLAlertView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LXLAlertView: ab2e1bc59396228161676308ad078adf5bc21d23
+
+PODFILE CHECKSUM: 8053f7c2ef223d1adb79dcbfb3ac2d135b76c9f2
+
+COCOAPODS: 1.10.1
